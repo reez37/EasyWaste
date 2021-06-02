@@ -99,21 +99,21 @@ $(window).scroll(function(){
 }
 
 
-function initialize() {
-    var mapOptions = {
-	center: new google.maps.LatLng(12.867411520404742, 74.85802517370601),
-	zoom: 15,
-	scrollwheel: false,
-	mapTypeId: google.maps.MapTypeId.ROADMAP
-	};
-    var map = new google.maps.Map(document.getElementById('templatemo_map'), mapOptions);
-}
+// function initialize() {
+//     var mapOptions = {
+// 	center: new google.maps.LatLng(12.867411520404742, 74.85802517370601),
+// 	zoom: 15,
+// 	scrollwheel: false,
+// 	mapTypeId: google.maps.MapTypeId.ROADMAP
+// 	};
+//     var map = new google.maps.Map(document.getElementById('templatemo_map'), mapOptions);
+// }
 
-	    google.maps.event.addDomListener(window, 'load', initialize);
-		google.maps.event.addDomListener(window, 'resize', function() 
-		{
-			map.setCenter(center);
-		});
+// 	    google.maps.event.addDomListener(window, 'load', initialize);
+// 		google.maps.event.addDomListener(window, 'resize', function() 
+// 		{
+// 			map.setCenter(center);
+// 		});
 	
 
 /*********** Menu ****************/
