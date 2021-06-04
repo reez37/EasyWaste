@@ -330,7 +330,7 @@ h1 {
 
 }
 .ammu{
-    margin-left: 0%;
+    margin-left: 10%;
     margin-top: -4px;
     padding: 0 !important;
     width: 100% !important;
@@ -615,18 +615,18 @@ h1 {
     .reem{
         display: flex !important;
         flex-direction: column !important;
-        width: 100%;
+        width: 90%;
        
     }
     .vedio{
-        margin-left:10% ;
+        
         margin-bottom: 35px;
-        width: 150;
+        width: 90%;
         height: 75;
     
     }
     .ammu{
-        margin-left: 7%;
+        
         margin-top: 45px;
         
         width: 100% !important;
@@ -637,6 +637,7 @@ h1 {
 @media (max-width: 991px) {
     .templatemo_contactmap {
         margin-top: 50px;
+        width: 100%;
     }
 
     .templatemo_ordering {
