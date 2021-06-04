@@ -627,9 +627,13 @@ h1 {
     }
     .ammu{
         
-        margin-top: 45px;
+        margin-top: 15px;
         
         width: 100% !important;
+    }
+
+    .ammu ul li{
+        margin-left: -15px;
     }
    
 }
