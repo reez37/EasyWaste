@@ -430,6 +430,10 @@ h1 {
     position: absolute;
 }
 
+#templatemo_map iframe{
+    width: 100%;
+}
+
 .templatemo_mapcorner img {
     width: 100%;
     vertical-align: top;
@@ -625,7 +629,7 @@ h1 {
         margin-left: 8%;
         margin-top: 45px;
         padding: 0 !important;
-        width: 380px !important;
+        width: 100% !important;
     }
    
 }
