@@ -358,7 +358,7 @@ h1 {
 }
 
 .templatemo_worktitle {
-    float: left;
+   
     width: 100%;
     margin-bottom: 10px;
     font-size: 32px;
@@ -368,7 +368,7 @@ h1 {
 }
 
 .templatemo_sub_worktitle {
-    float: left;
+    
     width: 100%;
     font-size: 22px;
     color: #91bf24;
