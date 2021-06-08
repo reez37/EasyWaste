@@ -611,7 +611,7 @@ h1 {
     }
 }
 
-@media (max-width: 590px)  {
+@media (max-width:650px)  {
     .reem{
         display: flex !important;
         flex-direction: column !important;
